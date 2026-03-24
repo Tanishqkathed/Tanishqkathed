@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanishqkathed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently interested in Ai/Ml
+- 🌱 I’m currently learning ofc Ai/Ml
+- 💞️ I’m looking to collaborate on Short mini Ai projects!
 - 📫 How to reach me - nuctankatira (discord)
                         
 
